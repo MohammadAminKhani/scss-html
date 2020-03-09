@@ -1,0 +1,10 @@
+$red: red;
+$pink: pink;
+
+$color: $red;
+$backgroundColor: $pink;
+
+h2{
+  color: $color;
+  background-color: $backgroundColor;
+}
